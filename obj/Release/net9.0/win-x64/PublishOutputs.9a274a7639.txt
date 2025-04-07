@@ -1,0 +1,2 @@
+C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\ATMLoginApp.pdb
+C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\ATMLoginApp.exe

@@ -1,0 +1,15 @@
+Server=localhost;Database=master;Trusted_Connection=True;
+
+localhost
+-------
+
+Publish:
+
+dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true
+
+
+where to find:
+C:\Users\PC\ATMLoginApp\bin\Debug\net9.0\ATMLoginApp.exe
+
+--------
+
