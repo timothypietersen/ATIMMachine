@@ -242,3 +242,4 @@ C:\Users\PC\ATMLoginApp\obj\Release\net9.0\win-x64\refint\ATMLoginApp.dll
 C:\Users\PC\ATMLoginApp\obj\Release\net9.0\win-x64\ATMLoginApp.pdb
 C:\Users\PC\ATMLoginApp\obj\Release\net9.0\win-x64\ATMLoginApp.genruntimeconfig.cache
 C:\Users\PC\ATMLoginApp\obj\Release\net9.0\win-x64\ref\ATMLoginApp.dll
+C:\Users\PC\ATMLoginApp\obj\Release\net9.0\win-x64\ATMLoginApp.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATMLoginApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81beda38fa29d16f1d64e0bd4903b9a0c40bd27e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATMLoginApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATMLoginApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

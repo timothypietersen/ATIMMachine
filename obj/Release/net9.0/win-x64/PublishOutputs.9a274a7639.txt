@@ -1,2 +1,4 @@
 C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\ATMLoginApp.pdb
+C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\sni.dll
 C:\Users\PC\ATMLoginApp\bin\Release\net9.0\win-x64\publish\ATMLoginApp.exe
